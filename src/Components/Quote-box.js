@@ -58,7 +58,7 @@ function QuoteBox ({color, changeColor, text, author}) {
                     New Quote
                 </button>
             </div>
-        </div>
+        </div> 
     )
 }
 

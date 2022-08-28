@@ -44,7 +44,7 @@ function App() {
         changeColor={changeColor}
         text={text}
         author={author}
-      />
+      /> 
     </div>
   );
 }
